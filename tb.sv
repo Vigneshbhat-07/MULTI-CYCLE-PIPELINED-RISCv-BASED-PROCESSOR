@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   16:37:17 09/03/2024
-// Design Name:   CA_PROJECT
-// Module Name:   /home/ise/Projects/CA_project/CA_project/Testbench.v
-// Project Name:  CA_project
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: CA_PROJECT
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module Testbench;
 
   // Inputs
