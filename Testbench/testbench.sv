@@ -1,3 +1,5 @@
+`include "../DESIGN/TOP_MODULE.v"
+
 module Testbench;
 
     // Inputs to the Unit Under Test (UUT)
