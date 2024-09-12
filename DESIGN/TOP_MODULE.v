@@ -1,4 +1,11 @@
 // Top module of the CA_PROJECT
+`include "PROGRAM_COUNTER.v"
+`include "PROGRAM_MEMORY.v"
+`include "INSTRUCTION_DECODER.v"
+`include "REGISTER_FILE.v"
+`include "ALU.v"
+`include "LOAD_BLOCK.v"
+
 module CA_PROJECT(
     input wire clk,             // Clock signal
     input wire reset,           // Reset signal
