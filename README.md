@@ -1,3 +1,3 @@
 MULTI CYCLE PIPELINED RISCv BASED PROCESSOR
 
-Vignesh Veekshit Zishan Sourabh
+Vignesh Veekshith Zishan Sourabh
