@@ -3,7 +3,7 @@
 ## Contributors 
  - Vignesh Bhat
  - Veekshith S Shetty
- - Manna Mohammad Zishan
+ - Zishan Manna
  - Sourabh Rao
 
 ## Project Overview
