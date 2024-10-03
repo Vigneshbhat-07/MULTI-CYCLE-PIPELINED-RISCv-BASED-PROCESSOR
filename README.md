@@ -1,8 +1,14 @@
-## CA_PROJECT: A Custom CPU Design 
+## CA_PROJECT: MULTI CYCLE PIPELINED RISC-V BASED PROCESSOR 
+
+## Contributors 
+ - Vignesh Bhat
+ - Veekshith S Shetty
+ - Manna Mohammad Zishan
+ - Sourabh Rao
 
 ## Project Overview
 
-This repository contains a Verilog-based implementation of a custom CPU architecture. The project aims to demonstrate basic CPU operations, including instruction fetching, decoding, register manipulation, and ALU computations. The CPU design is modular, making it easy to understand and extend for future enhancements.
+This repository contains a Verilog-based implementation of a Multi Cycle Pipilined RISC-V Based Peocessor. The project aims to demonstrate basic CPU operations, including instruction fetching, decoding, register manipulation, and ALU computations. The CPU design is modular, making it easy to understand and extend for future enhancements.
 
 ## Project Structure
 
