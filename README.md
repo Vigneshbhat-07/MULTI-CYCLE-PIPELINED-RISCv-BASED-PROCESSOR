@@ -1,4 +1,4 @@
-# CA_PROJECT: A Custom CPU Design
+## CA_PROJECT: A Custom CPU Design 
 
 ## Project Overview
 
