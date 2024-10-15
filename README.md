@@ -100,3 +100,5 @@ The testbench can be easily extended to include more test scenarios by modifying
 
 4. Analyze the simulation results using the waveform viewer to verify the operation of the CPU.
 
+## Results 
+![Screenshot-1](https://github.com/user-attachments/assets/ad50bf10-5eed-4eb5-a072-55a3620f3530)
