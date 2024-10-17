@@ -1,11 +1,11 @@
 		// Module for handling all load Operations
 		module LOAD_BLOCK(input clk,
-								input [6:0]OPCODE,
-								input [19:0]INP,
-								input [31:0] ALU_OUT,
-								output reg wr_en_RF,
-								output reg [31:0]Data_In_RF
-								);
+				  input [6:0]OPCODE,
+				  input [19:0]INP,
+				  input [31:0] ALU_OUT,
+				  output reg wr_en_RF,
+				  output reg [31:0]Data_In_RF
+				);
 							 
 			reg [19:0] INP_reg;
 			reg [6:0] OPCODE_reg,OPCODE_reg2;
