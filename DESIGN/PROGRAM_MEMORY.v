@@ -1,9 +1,9 @@
 		// Module for program memory
 		module PROGRAM_MEMORY(input clk,
-									 input reset,
-									 input [4:0]prog_addr,
-									 output reg[31:0]instruction
-									);
+				      input reset,
+				      input [4:0]prog_addr,
+				      output reg[31:0]instruction
+				     );
 							  
 			reg [31:0] PROG_MEM [0:31];							// 32 X 32 PROG_MEM BLOCK
 			
