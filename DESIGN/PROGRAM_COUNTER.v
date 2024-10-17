@@ -5,7 +5,7 @@ module PROGRAM_COUNTER(
     output reg [4:0] prog_addr
 );
 
-    always @(posedge clk or posedge reset) begin
+    always @(posedge clk) begin
         if (reset)
             prog_addr <= 5'b00000;            // Reset program counter to 0
         else if (OPCODE == 7'b1010101)        // HALT, hold the current program counter
